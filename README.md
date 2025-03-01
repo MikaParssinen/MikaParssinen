@@ -8,31 +8,6 @@
 
 I'm a Computer Science student at Mälardalens University in Västerås, with a deep passion for Machine Learning, AI applications, and building innovative solutions. My favorite course is applied machine learning, which focused on hands-on implementation from data preprocessing to deep learning.
 
-## 🚀 Featured Projects
-
-### Machine Learning Projects
-
-- **[Anomaly Detection in Manufacturing](https://github.com/MikaParssinen/Applied-Machine-Learning)** - Developed a machine learning pipeline for detecting and classifying defects in glass bottles using autoencoders and CNNs
-  - *Technologies: Python, TensorFlow, Autoencoders, CNN, Anomaly Detection*
-
-- **[Credit Card Customer Segmentation](https://github.com/MikaParssinen/Applied-Machine-Learning)** - Applied unsupervised learning techniques to segment credit card customers based on their spending habits
-  - *Technologies: Python, Hierarchical Clustering, DBSCAN, Data Analysis*
-
-- **[Football Player Position Prediction](https://github.com/MikaParssinen/Applied-Machine-Learning)** - Built supervised learning models to predict the preferred position of football players based on their attributes
-  - *Technologies: Python, SVM, Random Forest, Naive Bayes, Classification*
-
-- **[MNIST Digit Classification](https://github.com/MikaParssinen/Applied-Machine-Learning)** - Implemented and compared neural network architectures for classifying handwritten digits
-  - *Technologies: Python, TensorFlow, CNN, ANN, Deep Learning*
-
-### Mobile Development
-
-- **[SmartRoom-AR](https://github.com/MikaParssinen/SmartRoom-AR)** - Developed an AR application that interacts with IoT devices in MDU's Smart Room
-  - *Technologies: Unity, ARCore, RESTful API, IoT Integration, C#, QR Code Detection*
-
-### System Programming
-
-- **[Linux System Manager](https://github.com/MikaParssinen/System-Manager-In-Bash)** - A comprehensive bash-based system administration tool with a menu-driven interface for managing users, groups, and files
-  - *Technologies: Bash, Linux, User Management, File Permissions, System Administration*
 
 ## 🛠️ Skills
 
