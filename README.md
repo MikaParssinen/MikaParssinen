@@ -41,8 +41,8 @@ I'm a Software Test Developer at Westermo in Västerås, with a deep passion for
 
 
 ## 📊 GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=MikaParssinen&theme=tokyonight)](https://git.io/streak-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MikaParssinen&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MikaParssinen&theme=tokyonight)
 
 ## 📫 How to reach me
 
