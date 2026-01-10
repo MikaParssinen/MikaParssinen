@@ -41,8 +41,7 @@ I'm a Software Test Developer at Westermo in Västerås, with a deep passion for
 
 
 ## 📊 GitHub Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MikaParssinen&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MikaParssinen&theme=tokyonight)
+[![Mika's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikaParssinen&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 How to reach me
 
