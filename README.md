@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/mika-parssinen)](https://linkedin.com/in/mika-parssinen)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mika.77@live.se)](mailto:mika.77@live.se)
 
-## 🔧 Software Test Developer @ Westermo | 💻 Machine Learning Enthusiast
+## 🔧 Software Test Developer | 💻 Machine Learning Enthusiast
 I'm a Software Test Developer at Westermo in Västerås, with a deep passion for Machine Learning, AI applications, and building innovative solutions. 
 
 ## 🛠️ Skills
